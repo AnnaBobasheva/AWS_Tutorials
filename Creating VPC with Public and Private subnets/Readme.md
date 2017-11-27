@@ -81,5 +81,6 @@
     cat /var/log/cloud-init-output.log
   
   
-THIS IS IT :)
+THIS IS IT!
+:+1:
 
