@@ -5,12 +5,14 @@ _All credit for this tutorial goes to Leo Souquet, https://github.com/leodsti/AW
 
 [Inspired from this great article great article](https://aws.amazon.com/blogs/big-data/running-r-on-aws/) 
 
-The file _Script_User_Data.txt_ contains the script needed to install **at launch** the following
+The file _User_Data_Script.txt_ contains the script needed to install **at launch** the following
 
 * R
 * RServer
 * Shiny
 * Shiny Server 
+
+Before installing check the current versions of RServer and Shiny at https://www.rstudio.com/products/rstudio/download-server/ 
 
 ## Launching the instance
 
